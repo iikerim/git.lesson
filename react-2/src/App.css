@@ -1,0 +1,23 @@
+.App {
+  margin: 0 auto ;
+  display: grid;
+  width: 1200px;
+  grid-template-areas: 
+  'g'
+  'a'
+  'r';
+  grid-template-rows: 80px 1fr;
+}
+
+.content
+{
+  margin-top: 10px;
+  grid-area: a;
+  /* background-color: yellow; */
+}
+.content1
+{
+  margin-top: 10px;
+  grid-area: r;
+  
+}

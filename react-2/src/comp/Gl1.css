@@ -1,0 +1,9 @@
+.Gl1
+{
+    text-align: center;
+    background-color: rgb(28, 158, 104);
+    color: white;
+    grid-area: g;
+    text: x-large;
+  
+}
